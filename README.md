@@ -45,8 +45,7 @@ This repository contains the weekly assignments completed as part of my **CEI Da
 - Performance Comparison
 
 ### Week 5 — Text Generation using Recurrent Neural Networks
-- Shakespeare Corpus Preprocessing
-- Text Cleaning & Tokenization
+- Tokenization
 - N-gram Sequence Generation
 - Sequence Padding
 - SimpleRNN Implementation
