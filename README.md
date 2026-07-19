@@ -2,23 +2,23 @@
 
 ## About
 
-This repository contains the weekly assignments completed as part of my Data Science Internship at CEI. Each assignment focuses on applying Data Science, Machine Learning, and Deep Learning techniques to solve real-world problems through data preprocessing, visualization, clustering, classification, regression, and neural network modeling.
+This repository contains the weekly assignments completed as part of my **CEI Data Science Internship**. Each assignment focuses on applying Data Science, Machine Learning, and Deep Learning concepts to solve practical problems through data preprocessing, visualization, clustering, classification, image recognition, and natural language processing.
 
 ---
 
 ## Weekly Progress
 
-### Week 1
+### Week 1 — Data Preprocessing & Exploratory Data Analysis
 - Python for Data Science
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization Fundamentals
 
-### Week 2
-- Machine Learning Fundamentals
+### Week 2 — Machine Learning Fundamentals
 - Data Analysis & Visualization
 - Supervised Learning
 - Model Building & Evaluation
+- Machine Learning Fundamentals
 
 ### Week 3 — Customer Intelligence System
 - Data Cleaning & Preprocessing
@@ -35,14 +35,27 @@ This repository contains the weekly assignments completed as part of my Data Sci
 ### Week 4 — Deep Learning for Image Classification
 - CIFAR-10 Dataset Exploration
 - Image Preprocessing & Normalization
-- Artificial Neural Network (ANN)
-- Convolutional Neural Network (CNN)
-- BatchNormalization
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Batch Normalization
 - Data Augmentation
-- EarlyStopping
+- Early Stopping
 - Model Training & Evaluation
-- Performance Comparison
 - Accuracy & Loss Visualization
+- Performance Comparison
+
+### Week 5 — Text Generation using Recurrent Neural Networks
+- Shakespeare Corpus Preprocessing
+- Text Cleaning & Tokenization
+- N-gram Sequence Generation
+- Sequence Padding
+- SimpleRNN Implementation
+- LSTM Implementation
+- GRU Implementation
+- Next Word Prediction
+- Text Generation
+- Training & Validation Loss Comparison
+- Performance Analysis of RNN Architectures
 
 ---
 
@@ -69,38 +82,37 @@ Throughout this internship, I have strengthened my understanding of:
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- Feature Engineering
 - Data Visualization
-- Machine Learning
+- Feature Engineering
+- Machine Learning Algorithms
+- Clustering Techniques
+- Classification Models
 - Deep Learning
 - Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (SimpleRNN, LSTM, GRU)
 - Image Classification
-- Clustering Algorithms
-- Classification Models
-- Model Evaluation & Performance Metrics
+- Natural Language Processing (NLP)
+- Text Generation
+- Model Evaluation & Performance Analysis
 - Data Augmentation
-- BatchNormalization
-- EarlyStopping
+- Batch Normalization
+- Early Stopping
 
 ---
 
 ## Repository Structure
 
 ```
-├── Week-1/
-├── Week-2/
-├── Week-3/
-├── Week-4/
+CEI_Data_Science_Assignments/
+│
+├── week1_Rashali_Bajaj.ipynb
+├── week2_Rashali_Bajaj.ipynb
+├── week3_Rashali_Bajaj.ipynb
+├── week4_Rashali_Bajaj.ipynb
+├── week5_Rashali_Bajaj.ipynb
 └── README.md
 ```
 
----
 
-## Learning Journey
-
-Each week's assignment builds upon previous concepts, providing hands-on experience with the complete Data Science workflow—from data preprocessing and visualization to machine learning, deep learning, model evaluation, and performance analysis.
-
----
-
-*This repository is updated weekly as part of my CEI Data Science Internship, showcasing my continuous learning and practical implementation of Data Science, Machine Learning, and Deep Learning concepts.*
+*This repository is updated weekly as part of my CEI Data Science Internship and showcases my practical learning in Data Science, Machine Learning, Deep Learning, and AI.*
