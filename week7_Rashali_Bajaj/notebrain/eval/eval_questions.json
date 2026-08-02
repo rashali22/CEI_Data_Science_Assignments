@@ -1,0 +1,22 @@
+[
+  {
+    "id": "q1",
+    "question": "What is an Operating System and what are its primary responsibilities?"
+  },
+  {
+    "id": "q2",
+    "question": "What are the core components and features of a Database Management System (DBMS)?"
+  },
+  {
+    "id": "q3",
+    "question": "Explain process scheduling and memory management in computer architecture."
+  },
+  {
+    "id": "q4",
+    "question": "What is the purpose of index structures in databases?"
+  },
+  {
+    "id": "q5",
+    "question": "What is quantum string theory and dark matter astrophysics?"
+  }
+]
